@@ -1,2 +1,2 @@
-# My Personal Project
-This is a simple demo project to practice Git.
+# Recipe Book
+Just made a little site to add recipes to and save
