@@ -1,3 +1,3 @@
-# R ecipe book
+# Recipe Book Starter
+This is just a simple starter to a recipe book 
     
-You can use this to statr yioru recipe book app
